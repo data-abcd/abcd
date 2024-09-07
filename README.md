@@ -1,1 +1,5 @@
-# abcd
+The Adolescent Brain Cognitive Development (ABCD) Study SM is the largest long-term study of brain development and child health in the United States. The National Institutes of Health (NIH) funded leading researchers in the fields of adolescent development and neuroscience to conduct this ambitious project. The ABCD Research Consortium consists of a Coordinating Center, a Data Analysis, Informatics & Resource Center, and 21 research sites across the country (see map), which have invited 11,880 children ages 9-10 to join the study. Researchers will track their biological and behavioral development through adolescence into young adulthood.
+
+Using cutting-edge technology, scientists will determine how childhood experiences (such as sports, videogames, social media, unhealthy sleep patterns, and smoking) interact with each other and with a child’s changing biology to affect brain development and social, behavioral, academic, health, and other outcomes.
+
+The results of the ABCD Study will provide families; school superintendents, principals, and teachers; health professionals; and policymakers with practical information to promote the health, well-being, and success of children.
